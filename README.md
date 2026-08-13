@@ -102,3 +102,4 @@ set GOOGLE_API_KEY=your_api_key_here
 set GOOGLE_CSE_ID=your_custom_search_engine_id_here
 ```
 *Note: If environment variables are not set, PricePulse automatically uses its built-in pattern search & 10-year historical dataset synthesizer.*
+------------------
