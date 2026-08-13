@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PricePulse - Launch Streamlit Web App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "app.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "PricePulse - Launch CLI Main Menu",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "PricePulse - Generate Graph CLI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_graph.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

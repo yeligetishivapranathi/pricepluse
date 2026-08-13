@@ -1,0 +1,597 @@
+[2026-08-02 22:43:27] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-02 22:43:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-02 22:43:27] [INFO] [Storage]: Product 'Iphone 15 Pro' (ID: iphone_15_pro) saved successfully.
+[2026-08-02 22:43:31] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone_15_pro.png
+[2026-08-02 22:43:33] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone_15_pro.md
+[2026-08-02 22:45:11] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-02 22:45:11] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-02 22:45:11] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-02 22:45:12] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-02 22:45:15] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-02 22:45:15] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:44:38] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:38] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:38] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:39] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:41] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:41] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:44:42] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:44:42] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:42] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:42] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:43] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:44] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:44] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:44:44] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:44:46] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:46] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:47] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:47] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:47] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:44:47] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:44:48] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:48] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:49] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:49] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:49] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:49] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:49] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:50] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:44:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:44:50] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:44:51] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:51] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:44:51] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:44:51] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:45:35] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:45:35] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:45:36] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:45:36] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:45:38] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:45:38] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:45:38] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 15:56:45] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 15:56:45] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 15:56:45] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 15:56:46] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:56:48] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 15:56:48] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-04 15:56:48] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 16:05:21] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 16:05:21] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 16:05:21] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 16:05:22] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 16:05:24] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 16:05:26] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-04 17:57:41] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone_15_pro.png
+[2026-08-04 17:57:44] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone_15_pro.png
+[2026-08-04 17:57:46] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone_15_pro.md
+[2026-08-04 18:45:28] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-04 18:45:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-04 18:45:28] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-04 18:45:30] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 18:45:31] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-04 18:45:32] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 15:35:58] [INFO] [GoogleAPI]: Querying Google for product: 'rubber band'
+[2026-08-13 15:35:58] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Rubber Band'...
+[2026-08-13 15:35:58] [INFO] [Storage]: Product 'Rubber Band' (ID: rubber_band) saved successfully.
+[2026-08-13 15:36:00] [INFO] [Visualizer]: Generated plot chart: output\trend_rubber_band.png
+[2026-08-13 15:36:04] [INFO] [Visualizer]: Generated plot chart: output\trend_rubber_band.png
+[2026-08-13 15:36:07] [INFO] [ReportGenerator]: Generated Markdown report: output\report_rubber_band.md
+[2026-08-13 15:36:53] [INFO] [GoogleAPI]: Querying Google for product: ''
+[2026-08-13 15:36:53] [INFO] [GoogleAPI]: Generating 10-year historical price series for ''...
+[2026-08-13 15:36:53] [INFO] [Storage]: Product '' (ID: product_unknown) saved successfully.
+[2026-08-13 15:36:54] [INFO] [Visualizer]: Generated plot chart: output\trend_product_unknown.png
+[2026-08-13 15:36:54] [INFO] [Visualizer]: Generated plot chart: output\trend_product_unknown.png
+[2026-08-13 15:36:55] [INFO] [ReportGenerator]: Generated Markdown report: output\report_product_unknown.md
+[2026-08-13 15:38:17] [INFO] [GoogleAPI]: Querying Google for product: 'fridge'
+[2026-08-13 15:38:17] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 15:38:17] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 15:38:18] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:38:18] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:38:19] [INFO] [ReportGenerator]: Generated Markdown report: output\report_fridge.md
+[2026-08-13 15:38:23] [INFO] [GoogleAPI]: Querying Google for product: 'fridge'
+[2026-08-13 15:38:23] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 15:38:23] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 15:38:24] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:38:25] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:38:25] [INFO] [ReportGenerator]: Generated Markdown report: output\report_fridge.md
+[2026-08-13 15:39:15] [INFO] [GoogleAPI]: Querying Google for product: 'fridge'
+[2026-08-13 15:39:15] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 15:39:15] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 15:39:15] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:16] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:16] [INFO] [ReportGenerator]: Generated Markdown report: output\report_fridge.md
+[2026-08-13 15:39:18] [INFO] [GoogleAPI]: Querying Google for product: 'fridge'
+[2026-08-13 15:39:18] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 15:39:18] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 15:39:18] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:19] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:19] [INFO] [ReportGenerator]: Generated Markdown report: output\report_fridge.md
+[2026-08-13 15:39:23] [INFO] [GoogleAPI]: Querying Google for product: 'fridge'
+[2026-08-13 15:39:23] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 15:39:23] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 15:39:24] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:25] [INFO] [Visualizer]: Generated plot chart: output\trend_fridge.png
+[2026-08-13 15:39:25] [INFO] [ReportGenerator]: Generated Markdown report: output\report_fridge.md
+[2026-08-13 15:45:07] [INFO] [GoogleAPI]: Querying Google for product: 'Gold'
+[2026-08-13 15:45:07] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 15:45:08] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 15:45:08] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:45:09] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:45:09] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 15:46:55] [INFO] [GoogleAPI]: Querying Google for product: 'Gold'
+[2026-08-13 15:46:55] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 15:46:56] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 15:46:56] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:46:57] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:46:57] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 15:47:30] [INFO] [GoogleAPI]: Querying Google for product: 'Gold'
+[2026-08-13 15:47:30] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 15:47:30] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 15:47:32] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:47:33] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 15:47:33] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 15:47:50] [INFO] [GoogleAPI]: Querying Google for product: 'silver'
+[2026-08-13 15:47:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Silver'...
+[2026-08-13 15:47:50] [INFO] [Storage]: Product 'Silver' (ID: silver) saved successfully.
+[2026-08-13 15:47:50] [INFO] [GoogleAPI]: Querying Google for product: 'silver'
+[2026-08-13 15:47:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Silver'...
+[2026-08-13 15:47:50] [INFO] [Storage]: Product 'Silver' (ID: silver) saved successfully.
+[2026-08-13 15:47:51] [INFO] [Visualizer]: Generated plot chart: output\trend_silver.png
+[2026-08-13 15:47:52] [INFO] [Visualizer]: Generated plot chart: output\trend_silver.png
+[2026-08-13 15:47:52] [INFO] [ReportGenerator]: Generated Markdown report: output\report_silver.md
+[2026-08-13 15:48:20] [INFO] [GoogleAPI]: Querying Google for product: 'lenovo laptop'
+[2026-08-13 15:48:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Lenovo Laptop'...
+[2026-08-13 15:48:20] [INFO] [Storage]: Product 'Lenovo Laptop' (ID: lenovo_laptop) saved successfully.
+[2026-08-13 15:48:20] [INFO] [GoogleAPI]: Querying Google for product: 'lenovo laptop'
+[2026-08-13 15:48:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Lenovo Laptop'...
+[2026-08-13 15:48:20] [INFO] [Storage]: Product 'Lenovo Laptop' (ID: lenovo_laptop) saved successfully.
+[2026-08-13 15:48:21] [INFO] [Visualizer]: Generated plot chart: output\trend_lenovo_laptop.png
+[2026-08-13 15:48:22] [INFO] [Visualizer]: Generated plot chart: output\trend_lenovo_laptop.png
+[2026-08-13 15:48:22] [INFO] [ReportGenerator]: Generated Markdown report: output\report_lenovo_laptop.md
+[2026-08-13 15:50:54] [INFO] [GoogleAPI]: Querying Google for product: 'screen'
+[2026-08-13 15:50:54] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Screen'...
+[2026-08-13 15:50:55] [INFO] [Storage]: Product 'Screen' (ID: screen) saved successfully.
+[2026-08-13 15:50:55] [INFO] [GoogleAPI]: Querying Google for product: 'screen'
+[2026-08-13 15:50:55] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Screen'...
+[2026-08-13 15:50:55] [INFO] [Storage]: Product 'Screen' (ID: screen) saved successfully.
+[2026-08-13 15:50:56] [INFO] [Visualizer]: Generated plot chart: output\trend_screen.png
+[2026-08-13 15:50:56] [INFO] [Visualizer]: Generated plot chart: output\trend_screen.png
+[2026-08-13 15:50:57] [INFO] [ReportGenerator]: Generated Markdown report: output\report_screen.md
+[2026-08-13 16:08:04] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 16:08:04] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 16:08:04] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 16:08:04] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5 Headphones'
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5 Headphones'...
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 16:09:40] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 16:09:52] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 16:09:52] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 16:09:52] [INFO] [Storage]: Product 'Nike Air Max Shoes' (ID: nike_air_max_shoes) saved successfully.
+[2026-08-13 16:09:56] [INFO] [Visualizer]: Generated plot chart: output\trend_nike_air_max_shoes.png
+[2026-08-13 16:09:56] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 16:09:56] [INFO] [ReportGenerator]: Generated Markdown report: output\report_nike_air_max_shoes.md
+[2026-08-13 16:14:19] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:14:19] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:14:19] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:14:21] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:14:23] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:14:23] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:14:46] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:14:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:14:46] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:14:47] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:14:49] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:14:49] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:14:55] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 16:14:55] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 16:14:55] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 16:14:55] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 16:14:55] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 16:14:55] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 16:14:56] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 16:14:58] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 16:14:59] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 16:20:29] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:20:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:20:29] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:20:31] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:20:32] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:20:32] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:21:04] [INFO] [GoogleAPI]: Querying Google for product: 'nike shoes'
+[2026-08-13 16:21:04] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Shoes'...
+[2026-08-13 16:21:04] [INFO] [Storage]: Product 'Nike Shoes' (ID: nike_shoes) saved successfully.
+[2026-08-13 16:21:04] [INFO] [GoogleAPI]: Querying Google for product: 'nike shoes'
+[2026-08-13 16:21:04] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Shoes'...
+[2026-08-13 16:21:04] [INFO] [Storage]: Product 'Nike Shoes' (ID: nike_shoes) saved successfully.
+[2026-08-13 16:21:06] [INFO] [Visualizer]: Generated plot chart: output\trend_nike_shoes.png
+[2026-08-13 16:21:08] [INFO] [Visualizer]: Generated plot chart: output\trend_nike_shoes.png
+[2026-08-13 16:21:08] [INFO] [ReportGenerator]: Generated Markdown report: output\report_nike_shoes.md
+[2026-08-13 16:46:42] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:42] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:43] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:44] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:47] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:47] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:46:50] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:50] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:51] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:52] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:52] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:53] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:53] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:53] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:46:54] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:55] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:55] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:56] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:57] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:57] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:57] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:58] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 16:46:58] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 16:46:58] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 16:46:59] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:46:59] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:47:01] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:47:02] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:47:03] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 16:47:04] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 16:47:15] [INFO] [GoogleAPI]: Querying Google for product: 'car'
+[2026-08-13 16:47:15] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Car'...
+[2026-08-13 16:47:15] [INFO] [GoogleAPI]: Querying Google for product: 'car'
+[2026-08-13 16:47:15] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Car'...
+[2026-08-13 16:47:15] [ERROR] [Storage]: Failed writing to data file data\products.json: [WinError 5] Access is denied: 'data\\products.tmp' -> 'data\\products.json'
+[2026-08-13 16:47:15] [INFO] [Storage]: Product 'Car' (ID: car) saved successfully.
+[2026-08-13 16:47:17] [INFO] [Visualizer]: Generated plot chart: output\trend_car.png
+[2026-08-13 16:47:18] [INFO] [Visualizer]: Generated plot chart: output\trend_car.png
+[2026-08-13 16:47:18] [INFO] [ReportGenerator]: Generated Markdown report: output\report_car.md
+[2026-08-13 16:47:23] [INFO] [GoogleAPI]: Querying Google for product: 'car'
+[2026-08-13 16:47:23] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Car'...
+[2026-08-13 16:47:23] [INFO] [Storage]: Product 'Car' (ID: car) saved successfully.
+[2026-08-13 16:47:24] [INFO] [Visualizer]: Generated plot chart: output\trend_car.png
+[2026-08-13 16:47:26] [INFO] [Visualizer]: Generated plot chart: output\trend_car.png
+[2026-08-13 16:47:26] [INFO] [ReportGenerator]: Generated Markdown report: output\report_car.md
+[2026-08-13 16:48:20] [INFO] [GoogleAPI]: Querying Google for product: 'Dell Laptop'
+[2026-08-13 16:48:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 16:48:21] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 16:48:21] [INFO] [GoogleAPI]: Querying Google for product: 'Dell Laptop'
+[2026-08-13 16:48:21] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 16:48:21] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 16:48:22] [INFO] [Visualizer]: Generated plot chart: output\trend_dell_laptop.png
+[2026-08-13 16:48:24] [INFO] [Visualizer]: Generated plot chart: output\trend_dell_laptop.png
+[2026-08-13 16:48:24] [INFO] [ReportGenerator]: Generated Markdown report: output\report_dell_laptop.md
+[2026-08-13 17:14:13] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:14:13] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:14:14] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:14:15] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:14:16] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:14:17] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:14:44] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:14:44] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:14:44] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:14:44] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:14:44] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:14:45] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:14:46] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:14:46] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:14:46] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone.md
+[2026-08-13 17:15:34] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:15:34] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:15:34] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:15:35] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:15:35] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:15:36] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:15:36] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone.md
+[2026-08-13 17:15:43] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 17:15:43] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:15:43] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:15:43] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 17:15:43] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:15:44] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:15:44] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:15:45] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:15:45] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5 Headphones'
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5 Headphones'...
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:28:50] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:33:33] [INFO] [GoogleAPI]: Querying Google for product: 'Iphone 15 Pro'
+[2026-08-13 17:33:33] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:33:33] [INFO] [Storage]: Product 'Iphone 15 Pro' (ID: iphone_15_pro) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Iphone 15 Pro'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Iphone 15 Pro' (ID: iphone_15_pro) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Sony Wh-1000Xm5'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Iphone'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Playstation 5'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Playstation 5' (ID: playstation_5) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Samsung Galaxy S24 Ultra'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Samsung Galaxy S24 Ultra'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Samsung Galaxy S24 Ultra' (ID: samsung_galaxy_s24_ultra) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Toys'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Toys'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Toys' (ID: toys) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Sumsang Tv'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sumsang Tv'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Sumsang Tv' (ID: sumsang_tv) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Python Main.Py'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Python Main.Py'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Python Main.Py' (ID: python_main_py) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Macbook'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Macbook'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Macbook' (ID: macbook) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Dell Laptop'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Dinning Table'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dinning Table'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Dinning Table' (ID: dinning_table) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Pltes'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Pltes'...
+[2026-08-13 17:33:46] [INFO] [Storage]: Product 'Pltes' (ID: pltes) saved successfully.
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Querying Google for product: 'Mac Book'
+[2026-08-13 17:33:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Mac Book'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Mac Book' (ID: mac_book) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Rubber Band'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Rubber Band'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Rubber Band' (ID: rubber_band) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: ''
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for ''...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product '' (ID: product_unknown) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Fridge'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Gold'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Silver'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Silver'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Silver' (ID: silver) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Lenovo Laptop'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Lenovo Laptop'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Lenovo Laptop' (ID: lenovo_laptop) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Screen'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Screen'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Screen' (ID: screen) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Nike Air Max Shoes' (ID: nike_air_max_shoes) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Shoes'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Shoes'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Nike Shoes' (ID: nike_shoes) saved successfully.
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Querying Google for product: 'Car'
+[2026-08-13 17:33:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Car'...
+[2026-08-13 17:33:47] [INFO] [Storage]: Product 'Car' (ID: car) saved successfully.
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5 Headphones'
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5 Headphones'...
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:34:01] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:34:11] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:34:11] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:34:11] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:34:12] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:34:12] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 17:34:12] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:34:22] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:34:22] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:34:22] [INFO] [Storage]: Product 'Iphone 15 Pro' (ID: iphone_15_pro) saved successfully.
+[2026-08-13 17:34:22] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone_15_pro.png
+[2026-08-13 17:34:22] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 17:34:22] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone_15_pro.md
+[2026-08-13 17:34:32] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:34:32] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:34:32] [INFO] [Storage]: Product 'Nike Air Max Shoes' (ID: nike_air_max_shoes) saved successfully.
+[2026-08-13 17:34:33] [INFO] [Visualizer]: Generated plot chart: output\trend_nike_air_max_shoes.png
+[2026-08-13 17:34:33] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 17:34:33] [INFO] [ReportGenerator]: Generated Markdown report: output\report_nike_air_max_shoes.md
+[2026-08-13 17:36:51] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:36:51] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:36:51] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:36:52] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:36:53] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:36:53] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:37:53] [INFO] [GoogleAPI]: Querying Google for product: 'dell laptop'
+[2026-08-13 17:37:53] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 17:37:53] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 17:37:54] [INFO] [GoogleAPI]: Querying Google for product: 'dell laptop'
+[2026-08-13 17:37:54] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 17:37:54] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 17:37:54] [INFO] [Visualizer]: Generated plot chart: output\trend_dell_laptop.png
+[2026-08-13 17:37:54] [INFO] [Visualizer]: Generated plot chart: output\trend_dell_laptop.png
+[2026-08-13 17:37:55] [INFO] [Visualizer]: Generated plot chart: output\trend_dell_laptop.png
+[2026-08-13 17:37:55] [INFO] [ReportGenerator]: Generated Markdown report: output\report_dell_laptop.md
+[2026-08-13 17:38:27] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:38:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:38:27] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:38:28] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:38:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:38:28] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:38:28] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:38:29] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:38:29] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone.md
+[2026-08-13 17:38:57] [INFO] [GoogleAPI]: Querying Google for product: 'nike'
+[2026-08-13 17:38:57] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike'...
+[2026-08-13 17:38:57] [INFO] [Storage]: Product 'Nike' (ID: nike) saved successfully.
+[2026-08-13 17:38:58] [INFO] [Visualizer]: Generated plot chart: output\trend_nike.png
+[2026-08-13 17:38:58] [INFO] [Visualizer]: Generated plot chart: output\trend_nike.png
+[2026-08-13 17:38:58] [INFO] [ReportGenerator]: Generated Markdown report: output\report_nike.md
+[2026-08-13 17:38:59] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:39:00] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:39:00] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:39:08] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:39:09] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:39:09] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone.md
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5 Headphones'
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5 Headphones'...
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Querying Google for product: 'iPhone 15 Pro'
+[2026-08-13 17:41:20] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Querying Google for product: 'Iphone 15 Pro'
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone 15 Pro'...
+[2026-08-13 17:41:27] [INFO] [Storage]: Product 'Iphone 15 Pro' (ID: iphone_15_pro) saved successfully.
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Querying Google for product: 'Sony Wh-1000Xm5'
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:41:27] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Querying Google for product: 'Iphone'
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:41:27] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Querying Google for product: 'Playstation 5'
+[2026-08-13 17:41:27] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Playstation 5' (ID: playstation_5) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Samsung Galaxy S24 Ultra'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Samsung Galaxy S24 Ultra'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Samsung Galaxy S24 Ultra' (ID: samsung_galaxy_s24_ultra) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Toys'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Toys'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Toys' (ID: toys) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Sumsang Tv'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sumsang Tv'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Sumsang Tv' (ID: sumsang_tv) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Python Main.Py'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Python Main.Py'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Python Main.Py' (ID: python_main_py) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Macbook'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Macbook'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Macbook' (ID: macbook) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Dell Laptop'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dell Laptop'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Dell Laptop' (ID: dell_laptop) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Dinning Table'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Dinning Table'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Dinning Table' (ID: dinning_table) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Pltes'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Pltes'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Pltes' (ID: pltes) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Mac Book'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Mac Book'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Mac Book' (ID: mac_book) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: 'Rubber Band'
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Rubber Band'...
+[2026-08-13 17:41:28] [INFO] [Storage]: Product 'Rubber Band' (ID: rubber_band) saved successfully.
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Querying Google for product: ''
+[2026-08-13 17:41:28] [INFO] [GoogleAPI]: Generating 10-year historical price series for ''...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product '' (ID: product_unknown) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Fridge'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Fridge'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Fridge' (ID: fridge) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Gold'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Silver'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Silver'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Silver' (ID: silver) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Lenovo Laptop'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Lenovo Laptop'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Lenovo Laptop' (ID: lenovo_laptop) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Screen'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Screen'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Screen' (ID: screen) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Air Max Shoes'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Air Max Shoes'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Nike Air Max Shoes' (ID: nike_air_max_shoes) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Nike Shoes'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike Shoes'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Nike Shoes' (ID: nike_shoes) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Car'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Car'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Car' (ID: car) saved successfully.
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Querying Google for product: 'Nike'
+[2026-08-13 17:41:29] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Nike'...
+[2026-08-13 17:41:29] [INFO] [Storage]: Product 'Nike' (ID: nike) saved successfully.
+[2026-08-13 17:41:37] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:41:37] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:41:37] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:41:38] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:41:38] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 17:41:38] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:41:46] [INFO] [GoogleAPI]: Querying Google for product: 'PlayStation 5'
+[2026-08-13 17:41:46] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Playstation 5'...
+[2026-08-13 17:41:46] [INFO] [Storage]: Product 'Playstation 5' (ID: playstation_5) saved successfully.
+[2026-08-13 17:41:47] [INFO] [Visualizer]: Generated plot chart: output\trend_playstation_5.png
+[2026-08-13 17:41:47] [WARNING] [Visualizer]: Plotly not available for interactive HTML export.
+[2026-08-13 17:41:47] [INFO] [ReportGenerator]: Generated Markdown report: output\report_playstation_5.md
+[2026-08-13 17:43:03] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:43:03] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:43:03] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:43:04] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:43:06] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:43:06] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:43:08] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 17:43:08] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 17:43:08] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 17:43:09] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:43:10] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 17:43:10] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 17:43:17] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 17:43:17] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:43:17] [ERROR] [Storage]: Failed writing to data file data\products.json: [WinError 5] Access is denied: 'data\\products.tmp' -> 'data\\products.json'
+[2026-08-13 17:43:17] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 17:43:17] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:43:17] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:43:18] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:43:20] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:43:20] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 17:43:56] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 17:43:56] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 17:43:56] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 17:43:57] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:43:57] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:43:58] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 17:43:58] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-13 17:44:05] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:44:05] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:44:05] [INFO] [GoogleAPI]: Querying Google for product: 'iphone'
+[2026-08-13 17:44:05] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:44:05] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Iphone'...
+[2026-08-13 17:44:05] [INFO] [Storage]: Product 'Iphone' (ID: iphone) saved successfully.
+[2026-08-13 17:44:06] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:44:07] [INFO] [Visualizer]: Generated plot chart: output\trend_iphone.png
+[2026-08-13 17:44:08] [INFO] [ReportGenerator]: Generated Markdown report: output\report_iphone.md
+[2026-08-13 23:21:47] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-13 23:21:47] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-13 23:21:47] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-13 23:21:48] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 23:21:50] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-13 23:21:51] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-13 23:22:37] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 23:22:37] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 23:22:37] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 23:22:37] [INFO] [GoogleAPI]: Querying Google for product: 'gold'
+[2026-08-13 23:22:37] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Gold'...
+[2026-08-13 23:22:37] [INFO] [Storage]: Product 'Gold' (ID: gold) saved successfully.
+[2026-08-13 23:22:38] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 23:22:39] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
+[2026-08-13 23:22:39] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
