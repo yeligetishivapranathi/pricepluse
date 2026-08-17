@@ -595,3 +595,45 @@
 [2026-08-13 23:22:38] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
 [2026-08-13 23:22:39] [INFO] [Visualizer]: Generated plot chart: output\trend_gold.png
 [2026-08-13 23:22:39] [INFO] [ReportGenerator]: Generated Markdown report: output\report_gold.md
+[2026-08-14 00:00:35] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-14 00:00:35] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-14 00:00:35] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-14 00:00:35] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 00:00:36] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 00:00:37] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-14 00:00:39] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-14 00:00:39] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-14 00:00:39] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-14 00:00:40] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 00:00:40] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 00:00:40] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-14 09:52:03] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-14 09:52:03] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-14 09:52:03] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-14 09:52:04] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 09:52:05] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-14 09:52:06] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-17 11:39:18] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-17 11:39:18] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-17 11:39:18] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-17 11:39:20] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:39:21] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-17 11:39:21] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-17 11:39:22] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-17 11:39:24] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:39:25] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:39:27] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:39:28] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-17 11:39:28] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-17 11:40:34] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-17 11:40:34] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-17 11:40:34] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-17 11:40:38] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:40:40] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:40:40] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
+[2026-08-17 11:52:19] [INFO] [GoogleAPI]: Querying Google for product: 'Sony WH-1000XM5'
+[2026-08-17 11:52:19] [INFO] [GoogleAPI]: Generating 10-year historical price series for 'Sony Wh-1000Xm5'...
+[2026-08-17 11:52:20] [INFO] [Storage]: Product 'Sony Wh-1000Xm5' (ID: sony_wh-1000xm5) saved successfully.
+[2026-08-17 11:52:22] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:52:23] [INFO] [Visualizer]: Generated plot chart: output\trend_sony_wh-1000xm5.png
+[2026-08-17 11:52:24] [INFO] [ReportGenerator]: Generated Markdown report: output\report_sony_wh-1000xm5.md
